@@ -1,0 +1,4 @@
+requests
+django
+django-admin-data-from-external-service
+python-decouple

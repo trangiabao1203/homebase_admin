@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CPython debug symbols
+*.pyd
+*.pyo
+*.pyc
+
+# Folder của môi trường ảo Python
+venv/
+env/
+ENV/
+
+# Các file cấu hình môi trường
+.env
+.env.*
+
+# Database
+*.sqlite3
+*.db
+
+# Media files
+media/
+
+# Thư mục chứa file tĩnh
+static/
+
+# Các file và thư mục của PyCharm và các IDE/Editor khác
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Các file không cần thiết khác
+*.log
+*.tmp
+*.bak
+*.tar
+*.tgz
+*.zip
